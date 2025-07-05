@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "A iniciar BarokSniperBot..."
-cargo run
+cargo run --release
